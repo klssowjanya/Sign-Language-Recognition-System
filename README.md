@@ -22,7 +22,7 @@ The Sign Language Recognition project is designed to identify and interpret hand
 ## Installation
 1. Clone this repository:
    bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/klssowjanya/Sign-Language-Recognition-System)>
    
 2. Navigate to the project directory:
    bash
